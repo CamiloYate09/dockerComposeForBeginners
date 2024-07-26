@@ -1,0 +1,4 @@
+
+
+1-- docker run -p 7070:8080 {usuario docker hub}/flask:0.1.0
+2-- docker compose up
